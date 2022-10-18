@@ -1,8 +1,7 @@
 [![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2019/06/python-developer.png)](https:pratyushsrivastava500.io)
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fprogrammer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fcomputer-programmer&tbnid=iWR4qJ26KrhHzM&vet=12ahUKEwjvivLeo-n6AhXljtgFHc8_BuUQMygQegUIARCGAg..i&docid=vGO9ZJ9PFgmJQM&w=2000&h=1334&q=programmer%20images&ved=2ahUKEwjvivLeo-n6AhXljtgFHc8_BuUQMygQegUIARCGAg">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__340.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsrivastava500&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsrivastava500" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@pratyus98449066" target="blank"><img src="https://img.shields.io/twitter/follow/@pratyus98449066?logo=twitter&style=for-the-badge" alt="@pratyus98449066" /></a> </p>
