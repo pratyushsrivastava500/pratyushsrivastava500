@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]https://www.mindinventory.com/blog/wp-content/uploads/2019/06/python-developer.png
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/06/python-developer.png">
