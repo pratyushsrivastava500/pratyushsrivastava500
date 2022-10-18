@@ -1,7 +1,7 @@
 [![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2019/06/python-developer.png)](https:pratyushsrivastava500.io)
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__340.jpg">
+<img align="right" alt="Coding" width="400" src="https://d3oj8nq9p0q26f.cloudfront.net/blog/assets/images/posts/coding-52aa9f6bac9cda8536906f30df9732aaff341e804e80d5706ce90d3d0137e0a6.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsrivastava500&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsrivastava500" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@pratyus98449066" target="blank"><img src="https://img.shields.io/twitter/follow/@pratyus98449066?logo=twitter&style=for-the-badge" alt="@pratyus98449066" /></a> </p>
