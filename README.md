@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pratyus98449066" target="blank"><img src="https://img.shields.io/twitter/follow/@pratyus98449066?logo=twitter&style=for-the-badge" alt="@pratyus98449066" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Java Frameworks and Python Frameworks**
+- 🌱 I’m currently learning **Python Frameworks named as Flask and Django**
 
 - 💬 Ask me about **Core and Advanced Python , Core Java**
 
