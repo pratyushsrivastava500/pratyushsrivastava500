@@ -1,6 +1,6 @@
 [![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png)](https:pratyushsrivastava500.io)
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsrivastava500&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsrivastava500" /> </p>
 
