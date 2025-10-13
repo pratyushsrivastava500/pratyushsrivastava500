@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png)](https:pratyushsrivastava500.io)
+[![MasterHead]([https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png](https://media.licdn.com/dms/image/v2/D5616AQG8Ijh0pxXQLA/profile-displaybackgroundimage-shrink_350_1400/B56ZnebVvPIsAY-/0/1760373335430?e=1762992000&v=beta&t=pE6hJLQoUEFJQDtNxK3zYPL4NI4vGEtTwcivW5p4J5I))](https:pratyushsrivastava500.io)
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=2000">
