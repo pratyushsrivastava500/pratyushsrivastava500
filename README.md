@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png)](https://pratyushsrivastava500.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQG8Ijh0pxXQLA/profile-displaybackgroundimage-shrink_350_1400/B56ZnebVvPIsAY-/0/1760373335430?e=1764201600&v=beta&t=bxB_zWeLmyw7LSNGCdQ0PdiFdqOFNgV_XMLTUlqtpqw](https://pratyushsrivastava500.io)
 
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">🚀 Data Scientist | AI/ML Engineer | NLP & Generative AI Enthusiast</h3>
