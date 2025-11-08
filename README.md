@@ -19,13 +19,15 @@
 - ⚡ *Fun fact:* I love transforming data into intelligent systems that solve real-world problems!  
 
 ---
+## 🧠 Professional Summary
 
-### 💼 Professional Summary  
-Results-driven **Data Scientist** with 3+ years of experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
-Proficient in developing **end-to-end AI-driven solutions**, integrating **LLMs (OpenAI, Vertex AI)**, and building **RAG-based intelligent agents** for dynamic automation.  
-Strong expertise in **data preprocessing, model training, and deployment** with **FastAPI, Flask, and Streamlit**.  
-Skilled in **LangChain, Hugging Face Transformers, and CrewAI** for advanced **Generative AI pipelines**.  
-Experienced in **Google Cloud (Vertex AI, BigQuery)** and **AWS (SageMaker, Bedrock, Lambda)** for scalable deployments.  
+Results-driven **Data Scientist and AI Engineer** with **3.5+ years of experience** in **Machine Learning, Deep Learning, NLP, and Generative AI**. Skilled in building **end-to-end, production-grade AI systems** integrating **LLMs (OpenAI, Vertex AI, Claude)** and **RAG-based intelligent agents** for automation and decision support.
+
+Holds an **M.Tech in Artificial Intelligence and Machine Learning from IIT Patna** and a **B.Tech in Computer Science from Galgotias University**. Demonstrates proven expertise across the full AI lifecycle — from **data preprocessing and feature engineering** to **model development, optimization, and deployment** using **Flask, FastAPI, and Streamlit**.
+
+Adept in **LangChain, Hugging Face Transformers, and CrewAI**, with strong proficiency in **cloud AI solutions** on **Google Cloud (Vertex AI, BigQuery)** and **AWS (SageMaker, Bedrock, Lambda)**. Passionate about leveraging **Generative AI, Agentic AI, and Multi-Agent Systems** to transform unstructured data into actionable intelligence and scalable automation.
+
+Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI Engineering** to drive measurable business impact and enable the next generation of intelligent applications.
 
 ---
 
