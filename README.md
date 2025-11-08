@@ -58,7 +58,10 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 - Design and implement **scalable GenAI pipelines** by integrating **LangChain**, **LlamaIndex**, and **vector databases** (FAISS, Pinecone) for efficient retrieval, reasoning, and orchestration.  
 - Develop **autonomous multi-agent systems** that enable intelligent decision-making, dynamic task planning, and adaptive learning.  
 - Implement **MLOps and DevOps best practices** using **Docker**, **Git**, and **AWS**, ensuring reliable deployment, monitoring, and lifecycle management of AI models.  
-- Stay at the forefront of **LLM**, **Agentic AI**, and **Generative AI research**, continuously experimenting with and applying emerging techniques to production-ready applications.  
+- Stay at the forefront of **LLM**, **Agentic AI**, and **Generative AI research**, continuously experimenting with and applying emerging techniques to production-ready applications.
+
+#### ⚙️ Tech Stack  
+Python | Generative AI | Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG) | Agentic AI | Prompt Engineering | LangChain | LlamaIndex | Transformers · Hugging Face | Vector Databases (FAISS, Pinecone) | PyTorch | AWS | Docker | Git | MLOps
 
 ---
 
@@ -75,8 +78,6 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 - Designed and implemented **processes and strategies** to improve **end-user experience** and streamline system interactions.  
 - Contributed to **best practices for Generative AI and data systems**, including troubleshooting, debugging, and integrating emerging technologies to improve analytical outcomes.  
 
-#### 🧩 Client Portfolio  
-**DTCC (Depository Trust and Clearing Corporation)** | **Infosys Polycloud Product Team** | **LG Electronics** | **XPO Logistics** | **PepsiCo**
 
 #### ⚙️ Tech Stack  
 Python (Core & Advanced) | Flask | FastAPI | Streamlit | Machine Learning | Generative AI | LLMs | RAG | Agentic AI | Fine-Tuning | NumPy | Pandas | Anaconda | Algorithms | Git | Docker  
