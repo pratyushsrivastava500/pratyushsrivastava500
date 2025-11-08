@@ -85,25 +85,29 @@ Python (Core & Advanced) | Flask | FastAPI | Streamlit | Machine Learning | Gene
 
 ---
 
-### 🚀 Professional Projects  
+## 🚀 Professional Projects  
 
-#### 🧩 **LGE US Sales & Site Analytics Assistant** | *Python, NLP, Vertex AI, BigQuery, Gemini LLM*  
-- Built an **AI-powered chatbot** for sales analytics using **Vertex AI** and **Gemini LLM**.  
-- Engineered **real-time query generation and summarization** pipelines via NLP and SQL.  
-- Enhanced user experience with **3s faster query responses** and dynamic visualizations.  
+---
 
-#### 🏠 **Home Seller Assistant** | *Python, LLMs, RAG, LangChain, GCP, FAISS*  
-- Developed a **Conversational AI agent** for intelligent mortgage document understanding.  
-- Integrated **RAG architecture** for improved retrieval accuracy and contextual awareness.  
-- Deployed a **GCP-based scalable pipeline**, reducing manual data entry and errors.  
+### 🧩 **LGE US Sales and Site Analytics Assistant**  
+**Tech Stack:** Python | NLP | SQL | Vertex AI | BigQuery | Gemini LLM  
 
-#### 💉 **Medical Insurance Price Prediction** | *Python, Scikit-learn, Pandas, NumPy, Matplotlib*  
-- Built a **regression model** to predict insurance premiums from demographic & health data.  
-- Conducted **EDA** and applied **regularization techniques (Ridge, Lasso)** to improve generalization.  
+- Collaborated with clients to gather requirements and design a **highly efficient sales analytics chatbot** leveraging **Natural Language Processing (NLP)** for enhanced conversational user interaction.  
+- Engineered a seamless integration of the chatbot with **Vertex AI** and **Gemini LLM**, enabling **real-time data processing** and improving user query response time by **~3 seconds**.  
+- Designed and developed a **dynamic SQL query framework** for automated query generation and execution, streamlining **data retrieval** and improving insight generation.  
+- Implemented a robust **NLP pipeline** to extract, map, and interpret user entities, significantly enhancing **query understanding and response accuracy**.  
+- Converted user queries into **contextual SQL statements**, translating structured data into **natural language insights** and delivering **dynamic visualizations** for business decision-making.  
 
-#### 🍄 **Mushroom Classification Web App** | *Python, Scikit-learn, Streamlit, Pandas*  
-- Developed a **Streamlit web app** to classify mushrooms (edible vs poisonous).  
-- Compared multiple ML models (Logistic Regression, Random Forest, SVM) achieving **high accuracy**.  
+---
+
+### 🏠 **Home Seller Assistant**  
+**Tech Stack:** Python | Large Language Models (LLMs) | RAG | LangChain | GCP | FAISS  
+
+- Designed and implemented an **AI-driven solution** leveraging **LLMs** to automate **data extraction and classification** from complex mortgage documents in a scalable **Google Cloud Platform (GCP)** environment.  
+- Applied **Retrieval-Augmented Generation (RAG)** techniques to enhance **information retrieval accuracy** and streamline **data population workflows** within the user interface.  
+- Developed an **enterprise-grade Conversational AI chatbot** for **document-based Q&A**, utilizing **LangChain**, **vector embeddings**, and **FAISS vector databases** for semantic search and intelligent document understanding.  
+- Delivered an **end-to-end intelligent document processing pipeline**, significantly **reducing manual data entry** and improving **operational efficiency** across teams.  
+
 
 ---
 
