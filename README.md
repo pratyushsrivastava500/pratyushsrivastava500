@@ -72,20 +72,43 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 **Data-Driven Decision Making** | **Customer Insights** | **Automation** | **MLOps**
 
 ---
+ 
 
-### 🧾 Professional Experience  
 
-**Digital Specialist Engineer (Analytics)** — *Infosys Limited, Chandigarh (July 2022 – Present)*  
+## 💼 Professional Experience  
 
-### 🔹 Key Responsibilities
+### 🤖 AI/ML Engineer  
+**goML · Full-time**  
+📍 *New York, United States* | 🗓️ *Oct 2025 – Present*  
 
+- Architect and deploy **Generative AI** and **LLM-powered solutions** using **RAG**, **Transformers**, and **Agentic AI** frameworks to address complex business challenges.  
+- Fine-tune, optimize, and evaluate **Large Language Models (LLMs)** — including **OpenAI**, **Llama**, and **Mistral** — for domain-specific tasks to enhance contextual understanding and accuracy.  
+- Design and implement **scalable GenAI pipelines** by integrating **LangChain**, **LlamaIndex**, and **vector databases** (FAISS, Pinecone) for efficient retrieval, reasoning, and orchestration.  
+- Develop **autonomous multi-agent systems** that enable intelligent decision-making, dynamic task planning, and adaptive learning.  
+- Implement **MLOps and DevOps best practices** using **Docker**, **Git**, and **AWS**, ensuring reliable deployment, monitoring, and lifecycle management of AI models.  
+- Stay at the forefront of **LLM**, **Agentic AI**, and **Generative AI research**, continuously experimenting with and applying emerging techniques to production-ready applications.  
+
+---
+
+### 💡 Digital Specialist Engineer (Analytics)  
+**Infosys Limited · Full-time**  
+📍 *Chandigarh, Punjab* | 🗓️ *Jul 2022 – Oct 2025*  
+
+#### 🔹 Key Responsibilities  
 - Collaborated with **cross-functional teams** to define project requirements, ensuring AI and analytics solutions align with organizational goals.  
 - Partnered with **project managers** to identify analytics needs, define **critical KPIs and metrics**, and deliver actionable insights for data-driven decision-making.  
 - Designed, developed, and optimized **Generative AI models** to enhance **performance, scalability, and efficiency** in line with business objectives.  
 - Built and maintained **AI and data pipelines**, covering data preprocessing, feature extraction, model training, and evaluation for seamless data flow.  
 - Utilized **Artificial Intelligence, NLP technologies, and cognitive Machine Learning** to design and develop advanced **AI applications**.  
 - Designed and implemented **processes and strategies** to improve **end-user experience** and streamline system interactions.  
-- Contributed to **best practices for Generative AI and data systems**, including troubleshooting, debugging, and integrating emerging technologies to improve analytical outcomes.
+- Contributed to **best practices for Generative AI and data systems**, including troubleshooting, debugging, and integrating emerging technologies to improve analytical outcomes.  
+
+#### 🧩 Client Portfolio  
+**DTCC (Depository Trust and Clearing Corporation)** | **Infosys Polycloud Product Team** | **LG Electronics** | **XPO Logistics** | **PepsiCo**
+
+#### ⚙️ Tech Stack  
+Python (Core & Advanced) | Flask | FastAPI | Streamlit | Machine Learning | Generative AI | LLMs | RAG | Agentic AI | Fine-Tuning | NumPy | Pandas | Anaconda | Algorithms | Git | Docker  
+
 
 
 ---
