@@ -7,148 +7,99 @@
 
 ---
 
+### 🧠 About Me  
+- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** | **B.Tech in Computer Science** – *Galgotias University*  
+- 💼 **Data Scientist & AI Engineer** with **3.5+ years** of experience in:
+  - **Machine Learning, Deep Learning, NLP, and Generative AI**
+  - **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**
+- 🧩 Trained and mentored **2000+ students**, delivering **1000+ live sessions** on Python, ML & AI  
+- ☁️ Skilled in **Vertex AI, AWS Bedrock, SageMaker, LangChain, and CrewAI**  
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, and Generative AI**  
+- ⚡ *Fun fact:* I love transforming data into intelligent systems that solve real-world problems!  
+
+---
+
 ### 💼 Professional Summary  
-Results-driven **Data Scientist** with 3.5+ years of experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
-Proficient in building **end-to-end data-driven solutions** with hands-on expertise in **LLMs (OpenAI, Vertex AI)**, **LangChain**, **RAG**, and **AI Agents** for dynamic automation.  
-Skilled in **data preprocessing, model training, and scalable deployment** using **FastAPI, Flask, and GCP/AWS**.  
-Experienced in **data analysis, visualization, and feature engineering** to deliver actionable business insights.  
-
-**Core Strengths:**  
-✅ Data Science & ML Model Development  
-✅ Generative AI & RAG Architecture  
-✅ NLP & LLM-based Applications  
-✅ Cloud Platforms (GCP, AWS)  
-✅ AI Agents & Automation  
-✅ Data-Driven Decision Making  
+Results-driven **Data Scientist** with 3+ years of experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+Proficient in developing **end-to-end AI-driven solutions**, integrating **LLMs (OpenAI, Vertex AI)**, and building **RAG-based intelligent agents** for dynamic automation.  
+Strong expertise in **data preprocessing, model training, and deployment** with **FastAPI, Flask, and Streamlit**.  
+Skilled in **LangChain, Hugging Face Transformers, and CrewAI** for advanced **Generative AI pipelines**.  
+Experienced in **Google Cloud (Vertex AI, BigQuery)** and **AWS (SageMaker, Bedrock, Lambda)** for scalable deployments.  
 
 ---
 
-### 👨‍💻 Experience  
+### 🧠 Technical Skills  
 
-**Digital Specialist Engineer (Analytics)** | *Infosys Ltd.* | Chandigarh, Punjab  
-📅 *July 2022 – Present*  
-- Collaborated with cross-functional teams to define project requirements and deliver AI-driven business insights.  
-- Designed and optimized **Generative AI models** and **data pipelines** for analytics and automation.  
-- Developed and deployed **LLM-powered applications** leveraging **Vertex AI, OpenAI, and LangChain**.  
-- Created and maintained end-to-end **AI pipelines** (data preprocessing, feature extraction, model training, evaluation).  
-- Established best practices for Generative AI workflows and contributed to **AI system optimization**.  
+#### 💻 Languages  
+Python | C | SQL (MySQL, PostgreSQL) | HTML | CSS | Java | JavaScript  
 
----
+#### 🧩 ML & DL Frameworks / Libraries  
+NumPy | Pandas | Scikit-learn | TensorFlow | Keras | PyTorch | XGBoost | LightGBM | OpenCV | Seaborn | Matplotlib  
 
-### 🎓 Education  
-- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** | *Galgotias University*  
-- 🎓 **B.Tech in Computer Science & Engineering** | *Galgotias University (GPA: 8.78)*  
-- 🏫 **Intermediate (PCM, 84.8%)** | *Green Field Academy, Lakhimpur Kheri*  
-- 🏫 **High School (CGPA: 10.0)** | *Green Field Academy, Lakhimpur Kheri*  
+#### 🤖 LLM & Generative AI Tools  
+LangChain | Hugging Face Transformers | CrewAI | RAG | Prompt Engineering | AI Agents | FAISS | OpenAI API | Gemini | Vertex AI  
 
----
+#### ☁️ Cloud Platforms & Services  
+Google Cloud Platform (Vertex AI, BigQuery, Cloud Storage, Cloud Functions)  
+AWS (Bedrock, SageMaker, Lambda, EC2, S3) | Heroku | Firebase  
 
-### ⚙️ Technical Skills  
+#### 🧰 Developer Tools & IDEs  
+Git | GitHub | VS Code | PyCharm | IntelliJ | Eclipse | Anaconda | Jupyter Notebook | Docker | Linux  
 
-#### 🧩 Programming & Tools  
-Python | C | SQL | HTML | Java | JavaScript | Git | VS Code | PyCharm | IntelliJ | Anaconda  
+#### 📊 Business & Productivity Tools  
+Power BI | Tableau | MS Excel | PowerPoint | MS Word  
 
-#### 🧠 ML & AI Frameworks  
-NumPy | Pandas | Scikit-learn | TensorFlow | Keras | PyTorch | XGBoost | OpenCV | NLTK | Seaborn  
-
-#### 🤖 LLM & Generative AI  
-LangChain | RAG | CrewAI | Prompt Engineering | OpenAI API | Gemini LLM | AI Agents  
-
-#### ☁️ Cloud & Deployment  
-Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions) | AWS (Bedrock, SageMaker, Lambda, EC2) | Heroku | Docker | Streamlit | Flask | FastAPI  
-
-#### 📊 Visualization & Analytics  
-Power BI | Matplotlib | Seaborn | Pandas Profiling | Data Wrangling | Business Analytics  
+#### ⚙️ Core Competencies  
+Data Science | Machine Learning | Deep Learning | Generative AI | NLP | AI Agents |  
+Statistical Analysis | Predictive Modeling | Business Analytics | Model Deployment |  
+Data-Driven Decision Making | Customer Insights | Automation | MLOps  
 
 ---
 
-### 🚀 Featured Projects  
+### 🧾 Professional Experience  
 
-#### 💬 **LGE US Sales and Site Analytics Assistant**  
-**Tech Stack:** Python, NLP, SQL, Vertex AI, BigQuery, Gemini LLM  
-- Built an **AI-powered analytics chatbot** for sales data exploration.  
-- Integrated **Gemini LLM + Vertex AI** for real-time query understanding.  
-- Enabled **automated SQL generation** and summarization for business insights.  
-- Achieved a **3-second improvement** in response latency via NLP query optimization.  
-
-🔗 [View Repository](https://github.com/pratyushsrivastava500/sales-analytics-assistant)
+**Digital Specialist Engineer (Analytics)** — *Infosys Limited, Chandigarh (July 2022 – Present)*  
+- Partnered with cross-functional teams to define AI & analytics project requirements.  
+- Designed and optimized **Generative AI models** for improved scalability and performance.  
+- Built and maintained **data pipelines** for preprocessing, feature extraction, and model training.  
+- Developed AI best practices and optimized deployment processes using **Vertex AI** and **AWS**.  
+- Enhanced analytics efficiency with KPI dashboards and actionable business insights.  
 
 ---
 
-#### 🏠 **Home Seller Assistant (RAG + LangChain + GCP)**  
-**Tech Stack:** Python, RAG, LangChain, FAISS, GCP, LLMs  
-- Designed a **document Q&A chatbot** using RAG for intelligent data retrieval.  
-- Automated **data extraction & classification** from mortgage documents.  
-- Deployed a **scalable GCP-based Conversational AI** pipeline using LangChain.  
-- Reduced manual entry efforts by **>60%** through intelligent document parsing.  
+### 🚀 Professional Projects  
 
-🔗 [View Repository](https://github.com/pratyushsrivastava500/home-seller-assistant)
+#### 🧩 **LGE US Sales & Site Analytics Assistant** | *Python, NLP, Vertex AI, BigQuery, Gemini LLM*  
+- Built an **AI-powered chatbot** for sales analytics using **Vertex AI** and **Gemini LLM**.  
+- Engineered **real-time query generation and summarization** pipelines via NLP and SQL.  
+- Enhanced user experience with **3s faster query responses** and dynamic visualizations.  
 
----
+#### 🏠 **Home Seller Assistant** | *Python, LLMs, RAG, LangChain, GCP, FAISS*  
+- Developed a **Conversational AI agent** for intelligent mortgage document understanding.  
+- Integrated **RAG architecture** for improved retrieval accuracy and contextual awareness.  
+- Deployed a **GCP-based scalable pipeline**, reducing manual data entry and errors.  
 
-#### 🧾 **Intelligent Invoice Extractor (RAG-based Chatbot)**  
-**Tech Stack:** Python, LangChain, OpenAI, Streamlit, MySQL  
-- Extracted invoice metadata (date, number, line items) from images using RAG.  
-- Scalable design for custom fields and OCR-driven extraction.  
-- Dockerized and deployed on AWS EC2 for real-time access.  
+#### 💉 **Medical Insurance Price Prediction** | *Python, Scikit-learn, Pandas, NumPy, Matplotlib*  
+- Built a **regression model** to predict insurance premiums from demographic & health data.  
+- Conducted **EDA** and applied **regularization techniques (Ridge, Lasso)** to improve generalization.  
 
-🔗 [View Repository](https://github.com/pratyushsrivastava500/invoice-rag-chatbot)
-
----
-
-#### 🧠 **NLP Text Analyzer**  
-**Tech Stack:** Python, SpaCy, Transformers, Flask  
-- Implemented sentiment analysis, keyword extraction, and named entity recognition.  
-- Integrated with **Flask REST API** for real-time analytics.  
-- Exported results as JSON and CSV for user-driven insights.  
-
-🔗 [View Repository](https://github.com/pratyushsrivastava500/nlp-text-analyzer)
+#### 🍄 **Mushroom Classification Web App** | *Python, Scikit-learn, Streamlit, Pandas*  
+- Developed a **Streamlit web app** to classify mushrooms (edible vs poisonous).  
+- Compared multiple ML models (Logistic Regression, Random Forest, SVM) achieving **high accuracy**.  
 
 ---
 
-#### 💉 **Medical Insurance Price Prediction**  
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
-- Built a regression-based model to predict insurance premiums.  
-- Applied Ridge and Lasso regularization for improved generalization.  
-- Delivered actionable insights for data-driven insurance pricing.  
-
-🔗 [View Repository](https://github.com/pratyushsrivastava500/medical-insurance-predictor)
+### 🧪 Research & Publications  
+- 📘 *Attendance Management System Using OpenCV* — IEEE ICCCNet 2022 *(Scopus Indexed)*  
+- 🍔 *Food Calorie Prediction Using MobileNet* — Presented at ICARI-2022  
 
 ---
 
-#### 🍄 **Mushroom Classification Web App**  
-**Tech Stack:** Python, Scikit-learn, Streamlit, Pandas  
-- Developed a supervised ML model to classify mushrooms as **edible vs. poisonous**.  
-- Compared multiple algorithms (Logistic Regression, Random Forest, SVM).  
-- Built an interactive **Streamlit app** for real-time inference and deployment.  
-
-🔗 [View Repository](https://github.com/pratyushsrivastava500/mushroom-classifier)
-
----
-
-### 📚 Research & Publications  
-- 📄 *“Attendance Management System Using OpenCV”* — IEEE International Conference on Advances in Computing, Communication, Control, and Networking (2022, Scopus Indexed).  
-- 📄 *“Food Calorie Prediction Using MobileNet”* — ICARI 2022 Presentation.  
-
----
-
-### 🏅 Certifications & Achievements  
-- 🥇 **All India Rank 6** – National Engineering Olympiad 2021 (NEO 4.0)  
-- 🎯 **Finalist** – Ami-Techfiesta 2020 Programming Challenge  
-- 🧠 **Microsoft Certified** – Azure AI Fundamentals  
-- 🐍 **Microsoft Technology Associate** – Python Programming  
-- 💡 **Infosys Certified Python Programmer**  
-- 💻 **Infosys Certified Python Associate**
-
----
-
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/pratyush-srivastava2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://twitter.com/Pratyus98449066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
-<a href="mailto:pratyushsrivastava500@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" /></a>
-<a href="https://pratyushsrivastava500.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="Portfolio" height="40" width="40" /></a>
-</p>
+### 🏆 Certifications & Achievements  
+- 🥇 **All India Rank 6**, National Engineering Olympiad 2021 (NEO 4.0)  
+- 🏁 **Finalist**, Ami-Techfiesta 2020 Programming Challenge  
+- 🎓 **Microsoft Certified**: Azure AI Fundamentals | MTA Python Programming  
+- 🧾 **Infosys Certified**: Python Programmer & Python Associate  
 
 ---
 
@@ -160,6 +111,16 @@ Power BI | Matplotlib | Seaborn | Pandas Profiling | Data Wrangling | Business A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushsrivastava500&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/pratyush-srivastava2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://twitter.com/Pratyus98449066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+<a href="mailto:pratyushsrivastava500@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" /></a>
+<a href="https://pratyushsrivastava500.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="Portfolio" height="40" width="40" /></a>
 </p>
 
 ---
