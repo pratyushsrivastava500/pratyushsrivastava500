@@ -13,7 +13,7 @@
 - 💼 **Data Scientist & AI Engineer** with **3.5+ years** of experience in:
   - **Machine Learning, Deep Learning, NLP, and Generative AI**
   - **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**
-- 🧩 Trained and mentored **2000+ students**, delivering **1000+ live sessions** on Python, ML & AI  
+- 🧩 Trained and mentored **5000+ students**, delivering **2000+ live sessions** on Python, ML & AI  
 - ☁️ Skilled in **Vertex AI, AWS Bedrock, SageMaker, LangChain, and CrewAI**  
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, and Generative AI**  
 - ⚡ *Fun fact:* I love transforming data into intelligent systems that solve real-world problems!  
