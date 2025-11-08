@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
 <h3 align="center">🚀 Data Scientist | AI/ML Engineer | NLP & Generative AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=2000">
 
 ---
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=2000">
 
 ### 🧠 About Me  
 - 🎓 **M.Tech in Artificial Intelligence & Data Science** - *Indian Institute of Technology Patna* | **B.Tech in Computer Science** – *Galgotias University*  
