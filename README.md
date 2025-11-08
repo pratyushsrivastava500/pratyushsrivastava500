@@ -76,11 +76,17 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 ### 🧾 Professional Experience  
 
 **Digital Specialist Engineer (Analytics)** — *Infosys Limited, Chandigarh (July 2022 – Present)*  
-- Partnered with cross-functional teams to define AI & analytics project requirements.  
-- Designed and optimized **Generative AI models** for improved scalability and performance.  
-- Built and maintained **data pipelines** for preprocessing, feature extraction, and model training.  
-- Developed AI best practices and optimized deployment processes using **Vertex AI** and **AWS**.  
-- Enhanced analytics efficiency with KPI dashboards and actionable business insights.  
+
+### 🔹 Key Responsibilities
+
+- Collaborated with **cross-functional teams** to define project requirements, ensuring AI and analytics solutions align with organizational goals.  
+- Partnered with **project managers** to identify analytics needs, define **critical KPIs and metrics**, and deliver actionable insights for data-driven decision-making.  
+- Designed, developed, and optimized **Generative AI models** to enhance **performance, scalability, and efficiency** in line with business objectives.  
+- Built and maintained **AI and data pipelines**, covering data preprocessing, feature extraction, model training, and evaluation for seamless data flow.  
+- Utilized **Artificial Intelligence, NLP technologies, and cognitive Machine Learning** to design and develop advanced **AI applications**.  
+- Designed and implemented **processes and strategies** to improve **end-user experience** and streamline system interactions.  
+- Contributed to **best practices for Generative AI and data systems**, including troubleshooting, debugging, and integrating emerging technologies to improve analytical outcomes.
+
 
 ---
 
