@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** | **B.Tech in Computer Science** – *Galgotias University*  
+- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** - *Indian Institute of Technology Patna* | **B.Tech in Computer Science** – *Galgotias University*  
 - 💼 **Data Scientist & AI Engineer** with **3.5+ years** of experience in:
   - **Machine Learning, Deep Learning, NLP, and Generative AI**
   - **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**
