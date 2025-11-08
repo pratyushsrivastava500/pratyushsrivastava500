@@ -38,40 +38,33 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 ### 💻 **Programming Languages**
 **Python** | C | SQL (**MySQL**, **PostgreSQL**) | HTML | CSS | Java | JavaScript
 
----
 
 ### 🧩 **Machine Learning & Deep Learning Frameworks**
 **NumPy** | **Pandas** | **Scikit-learn** | **TensorFlow** | **Keras** | **PyTorch** | **XGBoost** | **LightGBM** | **OpenCV** | **Seaborn** | **Matplotlib**
 
----
 
 ### 🤖 **LLM & Generative AI Ecosystem**
 **LangChain** | **Hugging Face Transformers** | **CrewAI** | **RAG (Retrieval-Augmented Generation)** | **Prompt Engineering** | **AI Agents** | **FAISS** | **OpenAI API** | **Gemini** | **Vertex AI**
 
----
 
 ### ☁️ **Cloud Platforms & Services**
 **Google Cloud Platform (Vertex AI, BigQuery, Cloud Storage, Cloud Functions)**  
 **AWS (Bedrock, SageMaker, Lambda, EC2, S3)** | **Heroku** | **Firebase**
 
----
 
 ### 🧰 **Developer Tools & IDEs**
 **Git** | **GitHub** | **VS Code** | **PyCharm** | **IntelliJ** | **Eclipse** | **Anaconda** | **Jupyter Notebook** | **Docker** | **Linux**
 
----
 
 ### 📊 **Business & Productivity Tools**
 **Power BI** | **Tableau** | **MS Excel** | **PowerPoint** | **MS Word**
 
----
 
 ### ⚙️ **Core Competencies**
 **Data Science** | **Machine Learning** | **Deep Learning** | **Generative AI** | **NLP** | **AI Agents**  
 **Statistical Analysis** | **Predictive Modeling** | **Business Analytics** | **Model Deployment**  
 **Data-Driven Decision Making** | **Customer Insights** | **Automation** | **MLOps**
 
----
  
 
 
@@ -81,6 +74,7 @@ Currently focused on advancing **Generative AI, Agentic AI, MLOps, and Cloud AI 
 **goML · Full-time**  
 📍 *New York, United States* | 🗓️ *Oct 2025 – Present*  
 
+#### 🔹 Key Responsibilities  
 - Architect and deploy **Generative AI** and **LLM-powered solutions** using **RAG**, **Transformers**, and **Agentic AI** frameworks to address complex business challenges.  
 - Fine-tune, optimize, and evaluate **Large Language Models (LLMs)** — including **OpenAI**, **Llama**, and **Mistral** — for domain-specific tasks to enhance contextual understanding and accuracy.  
 - Design and implement **scalable GenAI pipelines** by integrating **LangChain**, **LlamaIndex**, and **vector databases** (FAISS, Pinecone) for efficient retrieval, reasoning, and orchestration.  
