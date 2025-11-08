@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQG8Ijh0pxXQLA/profile-displaybackgroundimage-shrink_350_1400/B56ZnebVvPIsAY-/0/1760373335430?e=1764201600&v=beta&t=bxB_zWeLmyw7LSNGCdQ0PdiFdqOFNgV_XMLTUlqtpi)](https://pratyushsrivastava500.io)
+![Profile Banner](1760373335430.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Pratyush Srivastava</h1>
