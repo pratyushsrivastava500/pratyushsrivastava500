@@ -88,7 +88,6 @@ Python (Core & Advanced) | Flask | FastAPI | Streamlit | Machine Learning | Gene
 
 ## 🚀 Professional Projects  
 
----
 
 ### 🧩 **LGE US Sales and Site Analytics Assistant**  
 **Tech Stack:** Python | NLP | SQL | Vertex AI | BigQuery | Gemini LLM  
