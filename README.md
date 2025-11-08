@@ -7,15 +7,138 @@
 
 ---
 
-### 🧠 About Me  
-- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** | **B.Tech in Computer Science** from Galgotias University  
-- 💼 Currently working as a **Data Scientist & AI Engineer** with 3.5+ years of experience in:
-  - Data Science, Machine Learning, Deep Learning, and NLP  
-  - Generative AI, RAG (Retrieval-Augmented Generation), and LLM-based Applications  
-- 🧩 I’ve mentored **2000+ students** and delivered **1000+ live training sessions** on Python, ML, and AI  
-- 🌱 Currently exploring **Flask, Django, Streamlit**, and **RAG-based Agentic AI Systems**  
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, and Generative AI**  
-- ⚡ Fun fact: I love transforming data into intelligent systems that solve real-world problems!
+### 💼 Professional Summary  
+Results-driven **Data Scientist** with 3.5+ years of experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+Proficient in building **end-to-end data-driven solutions** with hands-on expertise in **LLMs (OpenAI, Vertex AI)**, **LangChain**, **RAG**, and **AI Agents** for dynamic automation.  
+Skilled in **data preprocessing, model training, and scalable deployment** using **FastAPI, Flask, and GCP/AWS**.  
+Experienced in **data analysis, visualization, and feature engineering** to deliver actionable business insights.  
+
+**Core Strengths:**  
+✅ Data Science & ML Model Development  
+✅ Generative AI & RAG Architecture  
+✅ NLP & LLM-based Applications  
+✅ Cloud Platforms (GCP, AWS)  
+✅ AI Agents & Automation  
+✅ Data-Driven Decision Making  
+
+---
+
+### 👨‍💻 Experience  
+
+**Digital Specialist Engineer (Analytics)** | *Infosys Ltd.* | Chandigarh, Punjab  
+📅 *July 2022 – Present*  
+- Collaborated with cross-functional teams to define project requirements and deliver AI-driven business insights.  
+- Designed and optimized **Generative AI models** and **data pipelines** for analytics and automation.  
+- Developed and deployed **LLM-powered applications** leveraging **Vertex AI, OpenAI, and LangChain**.  
+- Created and maintained end-to-end **AI pipelines** (data preprocessing, feature extraction, model training, evaluation).  
+- Established best practices for Generative AI workflows and contributed to **AI system optimization**.  
+
+---
+
+### 🎓 Education  
+- 🎓 **M.Tech in Artificial Intelligence & Machine Learning** | *Galgotias University*  
+- 🎓 **B.Tech in Computer Science & Engineering** | *Galgotias University (GPA: 8.78)*  
+- 🏫 **Intermediate (PCM, 84.8%)** | *Green Field Academy, Lakhimpur Kheri*  
+- 🏫 **High School (CGPA: 10.0)** | *Green Field Academy, Lakhimpur Kheri*  
+
+---
+
+### ⚙️ Technical Skills  
+
+#### 🧩 Programming & Tools  
+Python | C | SQL | HTML | Java | JavaScript | Git | VS Code | PyCharm | IntelliJ | Anaconda  
+
+#### 🧠 ML & AI Frameworks  
+NumPy | Pandas | Scikit-learn | TensorFlow | Keras | PyTorch | XGBoost | OpenCV | NLTK | Seaborn  
+
+#### 🤖 LLM & Generative AI  
+LangChain | RAG | CrewAI | Prompt Engineering | OpenAI API | Gemini LLM | AI Agents  
+
+#### ☁️ Cloud & Deployment  
+Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions) | AWS (Bedrock, SageMaker, Lambda, EC2) | Heroku | Docker | Streamlit | Flask | FastAPI  
+
+#### 📊 Visualization & Analytics  
+Power BI | Matplotlib | Seaborn | Pandas Profiling | Data Wrangling | Business Analytics  
+
+---
+
+### 🚀 Featured Projects  
+
+#### 💬 **LGE US Sales and Site Analytics Assistant**  
+**Tech Stack:** Python, NLP, SQL, Vertex AI, BigQuery, Gemini LLM  
+- Built an **AI-powered analytics chatbot** for sales data exploration.  
+- Integrated **Gemini LLM + Vertex AI** for real-time query understanding.  
+- Enabled **automated SQL generation** and summarization for business insights.  
+- Achieved a **3-second improvement** in response latency via NLP query optimization.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/sales-analytics-assistant)
+
+---
+
+#### 🏠 **Home Seller Assistant (RAG + LangChain + GCP)**  
+**Tech Stack:** Python, RAG, LangChain, FAISS, GCP, LLMs  
+- Designed a **document Q&A chatbot** using RAG for intelligent data retrieval.  
+- Automated **data extraction & classification** from mortgage documents.  
+- Deployed a **scalable GCP-based Conversational AI** pipeline using LangChain.  
+- Reduced manual entry efforts by **>60%** through intelligent document parsing.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/home-seller-assistant)
+
+---
+
+#### 🧾 **Intelligent Invoice Extractor (RAG-based Chatbot)**  
+**Tech Stack:** Python, LangChain, OpenAI, Streamlit, MySQL  
+- Extracted invoice metadata (date, number, line items) from images using RAG.  
+- Scalable design for custom fields and OCR-driven extraction.  
+- Dockerized and deployed on AWS EC2 for real-time access.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/invoice-rag-chatbot)
+
+---
+
+#### 🧠 **NLP Text Analyzer**  
+**Tech Stack:** Python, SpaCy, Transformers, Flask  
+- Implemented sentiment analysis, keyword extraction, and named entity recognition.  
+- Integrated with **Flask REST API** for real-time analytics.  
+- Exported results as JSON and CSV for user-driven insights.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/nlp-text-analyzer)
+
+---
+
+#### 💉 **Medical Insurance Price Prediction**  
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
+- Built a regression-based model to predict insurance premiums.  
+- Applied Ridge and Lasso regularization for improved generalization.  
+- Delivered actionable insights for data-driven insurance pricing.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/medical-insurance-predictor)
+
+---
+
+#### 🍄 **Mushroom Classification Web App**  
+**Tech Stack:** Python, Scikit-learn, Streamlit, Pandas  
+- Developed a supervised ML model to classify mushrooms as **edible vs. poisonous**.  
+- Compared multiple algorithms (Logistic Regression, Random Forest, SVM).  
+- Built an interactive **Streamlit app** for real-time inference and deployment.  
+
+🔗 [View Repository](https://github.com/pratyushsrivastava500/mushroom-classifier)
+
+---
+
+### 📚 Research & Publications  
+- 📄 *“Attendance Management System Using OpenCV”* — IEEE International Conference on Advances in Computing, Communication, Control, and Networking (2022, Scopus Indexed).  
+- 📄 *“Food Calorie Prediction Using MobileNet”* — ICARI 2022 Presentation.  
+
+---
+
+### 🏅 Certifications & Achievements  
+- 🥇 **All India Rank 6** – National Engineering Olympiad 2021 (NEO 4.0)  
+- 🎯 **Finalist** – Ami-Techfiesta 2020 Programming Challenge  
+- 🧠 **Microsoft Certified** – Azure AI Fundamentals  
+- 🐍 **Microsoft Technology Associate** – Python Programming  
+- 💡 **Infosys Certified Python Programmer**  
+- 💻 **Infosys Certified Python Associate**
 
 ---
 
@@ -26,22 +149,6 @@
 <a href="mailto:pratyushsrivastava500@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" /></a>
 <a href="https://pratyushsrivastava500.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="Portfolio" height="40" width="40" /></a>
 </p>
-
----
-
-### ⚙️ Tech Stack
-
-#### 💻 Languages  
-Python | Java | C | SQL | JavaScript | HTML | CSS  
-
-#### 🧩 Frameworks & Libraries  
-Flask | Django | TensorFlow | PyTorch | Scikit-learn | Keras | Pandas | NumPy | Seaborn | OpenCV  
-
-#### ☁️ Cloud & Tools  
-AWS | Heroku | Git | GitHub | Streamlit | MySQL | PostgreSQL | Firebase | Docker | Linux  
-
-#### 🔍 Current Focus  
-LLMs | RAG Architecture | Agentic AI | Model Deployment | Data-Driven Applications  
 
 ---
 
@@ -57,14 +164,6 @@ LLMs | RAG Architecture | Agentic AI | Model Deployment | Data-Driven Applicatio
 
 ---
 
-### 🏆 Achievements  
-- 🥇 Conducted 1000+ live sessions on **Python, ML, and Data Science**  
-- 💡 Built multiple **AI-powered projects** using **RAG**, **LLMs**, and **OpenAI APIs**  
-- 🧑‍🏫 Mentored students transitioning into Data Science and AI careers  
-- 📘 Active contributor to open-source and AI research discussions  
-
----
-
 ### ✨ Quote I Live By  
 > “Code is not just instructions for a machine — it’s a reflection of how we understand intelligence.”
 
@@ -72,4 +171,3 @@ LLMs | RAG Architecture | Agentic AI | Model Deployment | Data-Driven Applicatio
 
 ⭐ **If you find my work interesting, consider following me and giving a star!**  
 Let’s build intelligent systems together! 🚀
-
